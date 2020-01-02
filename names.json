@@ -1,0 +1,13 @@
+{ 
+    "friends": [
+    {
+    "name": "David",
+    "greeting": "Yes sir"
+    
+},
+    {
+    "name": "Hagrid",
+    "greeting": "Positive"
+    }
+]
+}
